@@ -1,25 +1,19 @@
-## ConmmanderRBX
+# ConmmanderRBX
 
 This page represents Conmmander, and is designed to showcase all his work. His profile can be found [here](https://www.roblox.com/users/81482246/profile). Please contact him on discord at ```Conmmander#9105```
 
-### Information
+## Information
 
 I am a developer and program an a variety of platforms. I can program lua and JavaScript, and I can understand Java. I can also write a bit in HTML. Thanks for visiting and I hope you find what you are looking for!
 
-```markdown
-Syntax highlighted code block
+## Projects
+### Roblox
+- [FEAR Velzic Training Facility](https://www.roblox.com/games/2058258433/BixbyTestSystem)
+- [Blackhallow Post](https://www.roblox.com/games/1705953139/Blackhallow-Post)
 
-# Header 1
-## Header 2
-### Header 3
+### GitHub
+- [RoTrade](https://github.com/conman0552/Modular-Trade-Bot-Site)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
