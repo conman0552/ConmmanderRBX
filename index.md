@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## ConmmanderRBX
 
-You can use the [editor on GitHub](https://github.com/conman0552/ConmmanderRBX/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page represents Conmmander, and is designed to showcase all his work. His profile can be found [here](https://www.roblox.com/users/81482246/profile). Please contact him on discord at ```Conmmander#9105```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Information
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a developer and program an a variety of platforms. I can program lua and JavaScript, and I can understand Java. I can also write a bit in HTML. Thanks for visiting and I hope you find what you are looking for!
 
 ```markdown
 Syntax highlighted code block
